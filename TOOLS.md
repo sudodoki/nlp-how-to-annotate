@@ -1,5 +1,7 @@
 Not all the tools are of same quality and price.
+NER might refer to NER or span labelling or sequence labelling (can be used for POS and other tasks as well)
 
+https://github.com/chakki-works/doccano - NER, Text Classification, Sequence to Sequence, Text Classification
 https://gate.ac.uk - NER, Text Classification
 http://brat.nlplab.org - NER, Relations, Normalization, […etc](http://brat.nlplab.org/examples.html#annotation-examples)
 https://prodi.gy - NER, Text Classification
