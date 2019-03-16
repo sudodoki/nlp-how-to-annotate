@@ -1,0 +1,3 @@
+ipyannotate
+ipywidgets==7.4.2
+pandas

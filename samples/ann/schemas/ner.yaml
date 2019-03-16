@@ -1,0 +1,9 @@
+LOC:
+    desc: Location
+    color: aqua
+PER:
+    desc: Person
+    color: green
+ORG:
+    desc: Organization
+    color: orange

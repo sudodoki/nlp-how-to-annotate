@@ -1,0 +1,4 @@
+format: bsf
+schema: ner
+highlight: background
+ext: txt
