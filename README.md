@@ -114,11 +114,13 @@ See [samples/jupyter/Hierarchical_multiclass.ipynb]. Be aware this was created i
 
 ## NER (Span annotations)
 
+*aka Sequence labelling*
+
 These are useful for NER and involve selecting contiguous set of text in document and marking with corresponding class.
 
 ### Jupyter
 
-See [samples/jupyter/Span_annotation.ipynb]. Be aware this was created in python version 3 (and probably would run with minor modifications on python 2). There's possibility to do even more responsive/dynamic solution using js in widget and handling mouse events & tracking current selection.
+See [samples/jupyter/Span_annotation.ipynb]. Be aware this was created in python version 3 (and probably would run with minor modifications on python 2). There's possibility to do even more responsive/dynamic solution using js in widget and handling mouse events & tracking current selection. You can provide custom tokenizer function to mark sentences/paragraphs as belonging to certain class.
 
 ### m8nware/ann
 
