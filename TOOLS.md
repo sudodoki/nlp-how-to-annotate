@@ -13,6 +13,7 @@ https://github.com/annefried/swan
 https://github.com/tayllan/viper - NER, js based
 https://paperai.github.io/htmlanno - NER, relations, paragraph selection, js based
 https://github.com/aldanor/plato - binary classification, no backend, csv, hotkeys, js based
+https://github.com/paperai/pdfanno - NER / span annotations for pdf 
 http://quepid.com/ - commercial judgement list for relevancy sorting
 
 http://www.janfreyberg.com/superintendent - widgets for jupyter notebooks
