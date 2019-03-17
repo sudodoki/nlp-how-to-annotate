@@ -36,10 +36,8 @@ There are multiple ways to assign a single sentence/doc a label that can have at
 
 ### Using folders (Finder)
 
-Using preview tool for the folders that displays thumbs with content in it or in specific 'preview' area (in mac's finder that would be under View > as Cover Flow)
-https://www.dropbox.com/s/55fx5wk6b5p3w1y/Screenshot%202018-10-27%2016.49.20.png?dl=0
-https://www.dropbox.com/s/0p11jwaljktedjx/Screenshot%202018-10-27%2016.50.52.png?dl=0
-and just manually sort them into two folders. Short sentences in txt / or document that can be identified via first sentence work best. 
+Using preview tool for the folders that displays thumbs with content in it or in specific 'preview' area (in mac's finder that would be under View > as Cover Flow). [Sample screenshot](images/cover_flow_sample.jpg), [another one](images/cover_flow_2.png).
+Then just manually sort them into two folders. Short sentences in txt / or document that can be identified via first sentence work best. 
 This methods also work for **multi-class** and **hierarchical multi-class** classification.
 
 ### Using google spreadsheets and data validation 
