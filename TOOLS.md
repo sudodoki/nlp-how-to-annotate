@@ -19,6 +19,7 @@ http://quepid.com/ - commercial judgement list for relevancy sorting
 http://www.janfreyberg.com/superintendent - widgets for jupyter notebooks
 https://github.com/natasha/ipyannotate - widgets for jupyter notebooks
 
+https://github.com/Dumbris/trunklucator - backbone for 'roll your own solution' (sample [NLP classification](https://github.com/Dumbris/trunklucator/tree/master/examples/active_learning))
 https://pybossa.com - more of 'roll your own solution'
 https://github.com/danvk/localturk - mimicking [Mechanical Turk](https://www.mturk.com/) API
 
