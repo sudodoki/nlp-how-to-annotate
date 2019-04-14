@@ -4,8 +4,9 @@ NER can be referred to as NER or span labelling or sequence labelling (can be us
 1. https://github.com/chakki-works/doccano - NER, Text Classification, Sequence to Sequence, Text Classification
 1. https://gate.ac.uk - NER, Text Classification
 1. http://brat.nlplab.org - NER, Relations, Normalization, […etc](http://brat.nlplab.org/examples.html#annotation-examples)
-1. https://prodi.gy - NER, Text Classification
-1. https://lighttag.io - NER, Relations, Classification
+1. https://prodi.gy - commercial tool, NER, Text Classification
+1. https://lighttag.io - commercial tool, NER, Relations, Classification
+1. https://www.tagtog.net – commercial tool, NER, Relations, Classification. 
 1. https://github.com/m8nware/ann - NER, persists to disk, common lisp, basic auth, built-in diffs
 1. https://github.com/jiesutd/YEDDA - NER annotation, admin interface / comparisons, desktop, python
 1. https://github.com/emanjavacas/cosycat
