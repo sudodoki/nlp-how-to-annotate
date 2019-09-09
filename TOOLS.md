@@ -17,6 +17,8 @@ NER can be referred to as NER or span labelling or sequence labelling (can be us
 1. https://github.com/paperai/pdfanno - NER / span annotations for pdf 
 1. http://quepid.com/ - commercial judgement list for relevancy sorting
 1. https://inception-project.github.io/ – NER, Lemma, Coreference, java based
+1. http://neuroner.com/ - NER
+1. https://github.com/CogComp/talen - NER, java
 
 For annotations in jupyter:
 1. http://www.janfreyberg.com/superintendent - widgets for jupyter notebooks
