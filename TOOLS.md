@@ -2,6 +2,7 @@ Not all the tools are of same quality and price.
 NER can be referred to as NER or span labelling or sequence labelling (can be used for POS and other tasks as well)
 
 1. https://github.com/chakki-works/doccano - NER, Text Classification, Sequence to Sequence, Text Classification
+1. https://github.com/heartexlabs/label-studio – NER in Text/HTML, Text Classification, Image Object Detection / Polygons, Audio, etc.
 1. https://gate.ac.uk - NER, Text Classification
 1. http://brat.nlplab.org - NER, Relations, Normalization, […etc](http://brat.nlplab.org/examples.html#annotation-examples)
 1. https://prodi.gy - commercial tool, NER, Text Classification
@@ -25,7 +26,7 @@ For annotations in jupyter:
 1. https://github.com/natasha/ipyannotate - widgets for jupyter notebooks
 
 Miscelanious:
-1. https://github.com/Dumbris/trunklucator - backbone for 'roll your own solution' (sample [NLP classification](https://github.com/Dumbris/trunklucator/tree/master/examples/active_learning))
+1. https://github.com/Dumbris/trunklucator - backbone for 'roll your own solution' (sample [NLP classification](https://github.com/Dumbris/trunklucator/tree/master/examples/active_learning)) - based on label-studio
 1. https://pybossa.com - more of 'roll your own solution'
 1. https://github.com/danvk/localturk - mimicking [Mechanical Turk](https://www.mturk.com/) API
 
