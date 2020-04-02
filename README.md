@@ -9,6 +9,7 @@ Below is the list of tasks and descriptions of a process to gather annotations f
 There is extensive reading on the subject, in the form of books, for example:
 + [Introduction to Linguistic Annotation and Text Analytics](https://www.amazon.com/Introduction-Linguistic-Annotation-Analytics-Technologies/dp/1598297384) by Graham Wilcock
 * [Natural Language Annotation for Machine Learning](http://shop.oreilly.com/product/0636920020578.do) by James Pustejovsky and Amber Stubbs
++ [An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz130/5670958) by Mariana Neves, Jurica Ševa
 
 
 Contents
